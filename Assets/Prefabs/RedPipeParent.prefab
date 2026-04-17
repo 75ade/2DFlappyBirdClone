@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8933784268743942694
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 490609559671159577, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -686704930, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 1552656857420155770, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Bottom
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867560948085612489, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Middle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402583345778898453, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Top
+      objectReference: {fileID: 0}
+    - target: {fileID: 2807569216824891369, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Top
+      objectReference: {fileID: 0}
+    - target: {fileID: 5174255398716307398, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -852694220, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 5371075282304408716, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 407251026, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 5893787904037428496, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Middle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059602548783178121, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7076579154403039375, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -686704930, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 7668190509609664356, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 407251026, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 8397681154270576765, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: RedPipeParent
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421357082313927289, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -852694220, guid: 7190f46e5eb95a144a08a31b8dae8d1d, type: 3}
+    - target: {fileID: 8616850392588109202, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}
+      propertyPath: m_Name
+      value: Pipe_Red_Bottom
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dafdc1639f0ebfd44857022a19f2d9e3, type: 3}

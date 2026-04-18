@@ -1,7 +1,7 @@
 # 🐦 2D Flappy Bird Game
 
 
-- Hi there, I would like to introduce about a small game project made based on the origin Flappy Bird made by Dong Nguyen.
+- Hi there, I would like to introduce about a small game project made based on the original Flappy Bird game made by Dong Nguyen.
 - This project was made by myself and it took me 3 and a half days to finish it. 
 - I have already published this game on Itch.io so you can play it if you wish. Here is the link to my game: https://75ade.itch.io/flappy-bird
 
